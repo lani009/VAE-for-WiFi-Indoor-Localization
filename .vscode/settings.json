@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./semi-supervised-pytorce/semi-supervised"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
