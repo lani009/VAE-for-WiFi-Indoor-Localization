@@ -1,0 +1,3 @@
+[submodule "semi-supervised-pytorch"]
+	path = semi-supervised-pytorch
+	url = https://github.com/lani009/semi-supervised-pytorch.git
